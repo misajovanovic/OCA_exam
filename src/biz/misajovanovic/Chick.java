@@ -13,6 +13,10 @@ public class Chick {
         System.out.println("Setting a constructor");
     }
 
+    public void someDummyMethod(){
+        System.out.println("I am dummy idiot");
+    }
+
     public String getName() {
         return name;
     }
