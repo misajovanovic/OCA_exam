@@ -2,7 +2,8 @@ package biz.misajovanovic;
 
 public class Chick {
 
-    private String name = "Marijana Jovanovic";
+
+    private String name = "Misa Jovanovic";
 
     {
         System.out.println("Setting field!!!");
